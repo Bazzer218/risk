@@ -32,7 +32,7 @@ and drawing an edge between two countries whenever the two countries are adjacen
 In the game of Risk, armies from one territory attack another territory following paths along this graph,
 and so you must implement algorithms that would help an AI determine which are the best paths to attack along.
 
-### Path verification
+### Path verifications
 
 The first three functions you should implement are: `is_valid_path`, `is_valid_attack_path`, and `cost_of_attack_path`.
 These functions are fairly straightforward to implement and full descriptions are provided in the starter code.
